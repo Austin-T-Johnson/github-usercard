@@ -102,6 +102,7 @@ card.appendChild(cardInfo);
 cardInfo.appendChild(name);
 cardInfo.appendChild(userName);
 cardInfo.appendChild(location);
+cardInfo.appendChild(profile);
 profile.appendChild(profileLink);
 cardInfo.appendChild(followers);
 cardInfo.appendChild(following);
